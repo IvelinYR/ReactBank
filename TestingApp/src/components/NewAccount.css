@@ -1,0 +1,12 @@
+.btn {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: limegreen;
+    color: white;
+}
+
+.btn:hover {
+    color: black;
+    box-shadow: 3px 3px 3px #DCD3CA;
+}
